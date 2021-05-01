@@ -96,6 +96,7 @@ class show_in():
         plt.pause(1)
         plt.ioff()
         plt.show()
+        plt.
 
 
 if __name__ == "__main__":
